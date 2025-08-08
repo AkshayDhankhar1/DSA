@@ -1,6 +1,6 @@
 class Solution {
 public:
-void find(vector<vector<int>> &ans,int target,vector<int>& candidates,int inx,vector<int> a){
+void find(vector<vector<int>> &ans,int target,vector<int>& candidates,int inx,vector<int>& a){
     if(inx>=candidates.size()){
         if(target==0){
             ans.push_back(a);
