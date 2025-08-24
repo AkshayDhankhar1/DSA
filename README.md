@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshayDhankhar1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/AkshayDhankhar1/DSA/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkshayDhankhar1/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AkshayDhankhar1/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0045-jump-game-ii) |
 | [0131-palindrome-partitioning](https://github.com/AkshayDhankhar1/DSA/tree/master/0131-palindrome-partitioning) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkshayDhankhar1/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/AkshayDhankhar1/DSA/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkshayDhankhar1/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
