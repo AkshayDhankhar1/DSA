@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AkshayDhankhar1/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AkshayDhankhar1/DSA/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/AkshayDhankhar1/DSA/tree/master/2050-count-good-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AkshayDhankhar1/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AkshayDhankhar1/DSA/tree/master/0498-diagonal-traverse) |
 | [0940-fruit-into-baskets](https://github.com/AkshayDhankhar1/DSA/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkshayDhankhar1/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AkshayDhankhar1/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AkshayDhankhar1/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Backtracking
 |  |
