@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AkshayDhankhar1/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/AkshayDhankhar1/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AkshayDhankhar1/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AkshayDhankhar1/DSA/tree/master/1013-fibonacci-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AkshayDhankhar1/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/AkshayDhankhar1/DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/AkshayDhankhar1/DSA/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/AkshayDhankhar1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/AkshayDhankhar1/DSA/tree/master/1013-fibonacci-number) |
@@ -112,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AkshayDhankhar1/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AkshayDhankhar1/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
