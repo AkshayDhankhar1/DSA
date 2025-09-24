@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AkshayDhankhar1/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/AkshayDhankhar1/DSA/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AkshayDhankhar1/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/AkshayDhankhar1/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AkshayDhankhar1/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AkshayDhankhar1/DSA/tree/master/1013-fibonacci-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkshayDhankhar1/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AkshayDhankhar1/DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/AkshayDhankhar1/DSA/tree/master/0131-palindrome-partitioning) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AkshayDhankhar1/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0451-sort-characters-by-frequency](https://github.com/AkshayDhankhar1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AkshayDhankhar1/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/AkshayDhankhar1/DSA/tree/master/2887-sort-vowels-in-a-string) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AkshayDhankhar1/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkshayDhankhar1/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AkshayDhankhar1/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0451-sort-characters-by-frequency](https://github.com/AkshayDhankhar1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/AkshayDhankhar1/DSA/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AkshayDhankhar1/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
