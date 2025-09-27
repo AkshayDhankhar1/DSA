@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AkshayDhankhar1/DSA/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/AkshayDhankhar1/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AkshayDhankhar1/DSA/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkshayDhankhar1/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/AkshayDhankhar1/DSA/tree/master/0231-power-of-two) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AkshayDhankhar1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AkshayDhankhar1/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/AkshayDhankhar1/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AkshayDhankhar1/DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/AkshayDhankhar1/DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/AkshayDhankhar1/DSA/tree/master/0131-palindrome-partitioning) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/AkshayDhankhar1/DSA/tree/master/0611-valid-triangle-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AkshayDhankhar1/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
