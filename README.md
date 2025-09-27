@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/AkshayDhankhar1/DSA/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/AkshayDhankhar1/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/AkshayDhankhar1/DSA/tree/master/0120-triangle) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AkshayDhankhar1/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AkshayDhankhar1/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/AkshayDhankhar1/DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/AkshayDhankhar1/DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/AkshayDhankhar1/DSA/tree/master/0131-palindrome-partitioning) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0063-unique-paths-ii) |
 | [0498-diagonal-traverse](https://github.com/AkshayDhankhar1/DSA/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AkshayDhankhar1/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Simulation
