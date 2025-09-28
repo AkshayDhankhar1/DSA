@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AkshayDhankhar1/DSA/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/AkshayDhankhar1/DSA/tree/master/0611-valid-triangle-number) |
 | [0940-fruit-into-baskets](https://github.com/AkshayDhankhar1/DSA/tree/master/0940-fruit-into-baskets) |
+| [0967-minimum-falling-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/AkshayDhankhar1/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AkshayDhankhar1/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkshayDhankhar1/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AkshayDhankhar1/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/AkshayDhankhar1/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0967-minimum-falling-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/AkshayDhankhar1/DSA/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkshayDhankhar1/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/AkshayDhankhar1/DSA/tree/master/0498-diagonal-traverse) |
+| [0967-minimum-falling-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AkshayDhankhar1/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Simulation
 |  |
