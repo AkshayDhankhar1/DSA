@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/AkshayDhankhar1/DSA/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AkshayDhankhar1/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/AkshayDhankhar1/DSA/tree/master/0120-triangle) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0611-valid-triangle-number](https://github.com/AkshayDhankhar1/DSA/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AkshayDhankhar1/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Combinatorics
