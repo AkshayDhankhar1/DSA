@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AkshayDhankhar1/DSA/tree/master/0131-palindrome-partitioning) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkshayDhankhar1/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0451-sort-characters-by-frequency](https://github.com/AkshayDhankhar1/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/AkshayDhankhar1/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/AkshayDhankhar1/DSA/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AkshayDhankhar1/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkshayDhankhar1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AkshayDhankhar1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/AkshayDhankhar1/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/AkshayDhankhar1/DSA/tree/master/1013-fibonacci-number) |
