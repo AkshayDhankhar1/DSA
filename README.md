@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AkshayDhankhar1/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AkshayDhankhar1/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AkshayDhankhar1/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AkshayDhankhar1/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkshayDhankhar1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AkshayDhankhar1/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AkshayDhankhar1/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AkshayDhankhar1/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkshayDhankhar1/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AkshayDhankhar1/DSA/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/AkshayDhankhar1/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AkshayDhankhar1/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AkshayDhankhar1/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AkshayDhankhar1/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AkshayDhankhar1/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
 | ------- |
@@ -265,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AkshayDhankhar1/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AkshayDhankhar1/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
