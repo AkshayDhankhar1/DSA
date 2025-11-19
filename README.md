@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/AkshayDhankhar1/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AkshayDhankhar1/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/AkshayDhankhar1/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/AkshayDhankhar1/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2050-count-good-numbers](https://github.com/AkshayDhankhar1/DSA/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AkshayDhankhar1/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AkshayDhankhar1/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/AkshayDhankhar1/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/AkshayDhankhar1/DSA/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AkshayDhankhar1/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/AkshayDhankhar1/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkshayDhankhar1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/AkshayDhankhar1/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/AkshayDhankhar1/DSA/tree/master/3462-vowels-game-in-a-string) |
