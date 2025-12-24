@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AkshayDhankhar1/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AkshayDhankhar1/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkshayDhankhar1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/AkshayDhankhar1/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2887-sort-vowels-in-a-string](https://github.com/AkshayDhankhar1/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/AkshayDhankhar1/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/AkshayDhankhar1/DSA/tree/master/3606-coupon-code-validator) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/AkshayDhankhar1/DSA/tree/master/0498-diagonal-traverse) |
+| [2211-count-collisions-on-a-road](https://github.com/AkshayDhankhar1/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AkshayDhankhar1/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Memoization
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/AkshayDhankhar1/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [2211-count-collisions-on-a-road](https://github.com/AkshayDhankhar1/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AkshayDhankhar1/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AkshayDhankhar1/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
