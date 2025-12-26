@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AkshayDhankhar1/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/AkshayDhankhar1/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AkshayDhankhar1/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/AkshayDhankhar1/DSA/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2050-count-good-numbers](https://github.com/AkshayDhankhar1/DSA/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AkshayDhankhar1/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AkshayDhankhar1/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AkshayDhankhar1/DSA/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0494-target-sum) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/AkshayDhankhar1/DSA/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/AkshayDhankhar1/DSA/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AkshayDhankhar1/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkshayDhankhar1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/AkshayDhankhar1/DSA/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AkshayDhankhar1/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3606-coupon-code-validator](https://github.com/AkshayDhankhar1/DSA/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AkshayDhankhar1/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AkshayDhankhar1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkshayDhankhar1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/AkshayDhankhar1/DSA/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AkshayDhankhar1/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkshayDhankhar1/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -287,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/AkshayDhankhar1/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AkshayDhankhar1/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Enumeration
+|  |
+| ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/AkshayDhankhar1/DSA/tree/master/2048-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
