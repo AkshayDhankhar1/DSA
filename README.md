@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AkshayDhankhar1/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/AkshayDhankhar1/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/AkshayDhankhar1/DSA/tree/master/0088-merge-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/AkshayDhankhar1/DSA/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AkshayDhankhar1/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -308,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AkshayDhankhar1/DSA/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/AkshayDhankhar1/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
