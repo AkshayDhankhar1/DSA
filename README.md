@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AkshayDhankhar1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/AkshayDhankhar1/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/AkshayDhankhar1/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AkshayDhankhar1/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -313,4 +314,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AkshayDhankhar1/DSA/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/AkshayDhankhar1/DSA/tree/master/0061-rotate-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AkshayDhankhar1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AkshayDhankhar1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AkshayDhankhar1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
