@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AkshayDhankhar1/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AkshayDhankhar1/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/AkshayDhankhar1/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AkshayDhankhar1/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/AkshayDhankhar1/DSA/tree/master/0120-triangle) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AkshayDhankhar1/DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/AkshayDhankhar1/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/AkshayDhankhar1/DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/AkshayDhankhar1/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/AkshayDhankhar1/DSA/tree/master/0152-maximum-product-subarray) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/AkshayDhankhar1/DSA/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/AkshayDhankhar1/DSA/tree/master/0498-diagonal-traverse) |
 | [0967-minimum-falling-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/1559-cherry-pickup-ii) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AkshayDhankhar1/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AkshayDhankhar1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/AkshayDhankhar1/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/AkshayDhankhar1/DSA/tree/master/2211-count-collisions-on-a-road) |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AkshayDhankhar1/DSA/tree/master/0085-maximal-rectangle) |
 | [2104-sum-of-subarray-ranges](https://github.com/AkshayDhankhar1/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AkshayDhankhar1/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Enumeration
