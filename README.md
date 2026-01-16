@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AkshayDhankhar1/DSA/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/AkshayDhankhar1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AkshayDhankhar1/DSA/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshayDhankhar1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/AkshayDhankhar1/DSA/tree/master/0322-coin-change) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/AkshayDhankhar1/DSA/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkshayDhankhar1/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AkshayDhankhar1/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/AkshayDhankhar1/DSA/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AkshayDhankhar1/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Combinatorics
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AkshayDhankhar1/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Monotonic Stack
 |  |
