@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/AkshayDhankhar1/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/AkshayDhankhar1/DSA/tree/master/0611-valid-triangle-number) |
 | [0940-fruit-into-baskets](https://github.com/AkshayDhankhar1/DSA/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AkshayDhankhar1/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/AkshayDhankhar1/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/AkshayDhankhar1/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AkshayDhankhar1/DSA/tree/master/1250-longest-common-subsequence) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/AkshayDhankhar1/DSA/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/AkshayDhankhar1/DSA/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1975-maximum-matrix-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/1975-maximum-matrix-sum) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AkshayDhankhar1/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AkshayDhankhar1/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/AkshayDhankhar1/DSA/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/0542-01-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
