@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AkshayDhankhar1/DSA/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/AkshayDhankhar1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AkshayDhankhar1/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/AkshayDhankhar1/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshayDhankhar1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/AkshayDhankhar1/DSA/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/AkshayDhankhar1/DSA/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/AkshayDhankhar1/DSA/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AkshayDhankhar1/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AkshayDhankhar1/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AkshayDhankhar1/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/AkshayDhankhar1/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/AkshayDhankhar1/DSA/tree/master/1020-number-of-enclaves) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AkshayDhankhar1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AkshayDhankhar1/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AkshayDhankhar1/DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshayDhankhar1/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -392,5 +396,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AkshayDhankhar1/DSA/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/AkshayDhankhar1/DSA/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
