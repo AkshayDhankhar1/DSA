@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshayDhankhar1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/AkshayDhankhar1/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AkshayDhankhar1/DSA/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/AkshayDhankhar1/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/AkshayDhankhar1/DSA/tree/master/0238-product-of-array-except-self) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AkshayDhankhar1/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Monotonic Stack
 |  |
