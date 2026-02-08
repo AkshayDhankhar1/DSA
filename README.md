@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkshayDhankhar1/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/AkshayDhankhar1/DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/AkshayDhankhar1/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkshayDhankhar1/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AkshayDhankhar1/DSA/tree/master/0022-generate-parentheses) |
