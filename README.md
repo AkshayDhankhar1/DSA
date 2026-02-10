@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/AkshayDhankhar1/DSA/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/AkshayDhankhar1/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AkshayDhankhar1/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AkshayDhankhar1/DSA/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/AkshayDhankhar1/DSA/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/AkshayDhankhar1/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/0542-01-matrix) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AkshayDhankhar1/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AkshayDhankhar1/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AkshayDhankhar1/DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshayDhankhar1/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -418,4 +420,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AkshayDhankhar1/DSA/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/AkshayDhankhar1/DSA/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AkshayDhankhar1/DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AkshayDhankhar1/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
