@@ -9,7 +9,9 @@ public:
             int r=i-1;
             while(l<r){
                 if(nums[i]+nums[l]+nums[r]==0){
-                    st.insert({nums[l],nums[r],nums[i]});
+                    vector<int> temp={nums[l],nums[r],nums[i]};
+                    sort(temp.begin(),temp.end());
+                    st.insert(temp);
                     l++;
                     r--;
                 }
