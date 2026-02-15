@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AkshayDhankhar1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/AkshayDhankhar1/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshayDhankhar1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkshayDhankhar1/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshayDhankhar1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AkshayDhankhar1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AkshayDhankhar1/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AkshayDhankhar1/DSA/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/AkshayDhankhar1/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/AkshayDhankhar1/DSA/tree/master/0061-rotate-list) |
 ## Tree
 |  |
@@ -442,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AkshayDhankhar1/DSA/tree/master/0207-course-schedule) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkshayDhankhar1/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
