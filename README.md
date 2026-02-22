@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/AkshayDhankhar1/DSA/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/AkshayDhankhar1/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/AkshayDhankhar1/DSA/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AkshayDhankhar1/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0967-minimum-falling-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/AkshayDhankhar1/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/AkshayDhankhar1/DSA/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkshayDhankhar1/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AkshayDhankhar1/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
