@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/AkshayDhankhar1/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AkshayDhankhar1/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkshayDhankhar1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/AkshayDhankhar1/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2887-sort-vowels-in-a-string](https://github.com/AkshayDhankhar1/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/AkshayDhankhar1/DSA/tree/master/3462-vowels-game-in-a-string) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AkshayDhankhar1/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkshayDhankhar1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AkshayDhankhar1/DSA/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AkshayDhankhar1/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3606-coupon-code-validator](https://github.com/AkshayDhankhar1/DSA/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AkshayDhankhar1/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AkshayDhankhar1/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkshayDhankhar1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AkshayDhankhar1/DSA/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AkshayDhankhar1/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/AkshayDhankhar1/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkshayDhankhar1/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
