@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/AkshayDhankhar1/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AkshayDhankhar1/DSA/tree/master/0342-power-of-four) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshayDhankhar1/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/AkshayDhankhar1/DSA/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AkshayDhankhar1/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AkshayDhankhar1/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshayDhankhar1/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AkshayDhankhar1/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AkshayDhankhar1/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkshayDhankhar1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/AkshayDhankhar1/DSA/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AkshayDhankhar1/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AkshayDhankhar1/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshayDhankhar1/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AkshayDhankhar1/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkshayDhankhar1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AkshayDhankhar1/DSA/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -460,4 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkshayDhankhar1/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshayDhankhar1/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshayDhankhar1/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
