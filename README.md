@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/AkshayDhankhar1/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AkshayDhankhar1/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AkshayDhankhar1/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2906-construct-product-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AkshayDhankhar1/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AkshayDhankhar1/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AkshayDhankhar1/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AkshayDhankhar1/DSA/tree/master/1020-number-of-enclaves) |
 | [1559-cherry-pickup-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1975-maximum-matrix-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2906-construct-product-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/2906-construct-product-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AkshayDhankhar1/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 ## Simulation
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AkshayDhankhar1/DSA/tree/master/0238-product-of-array-except-self) |
+| [2906-construct-product-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/2906-construct-product-matrix) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AkshayDhankhar1/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Monotonic Stack
 |  |
