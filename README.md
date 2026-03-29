@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkshayDhankhar1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/AkshayDhankhar1/DSA/tree/master/2211-count-collisions-on-a-road) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AkshayDhankhar1/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/AkshayDhankhar1/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/AkshayDhankhar1/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/AkshayDhankhar1/DSA/tree/master/3606-coupon-code-validator) |
