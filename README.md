@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AkshayDhankhar1/DSA/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/AkshayDhankhar1/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/0542-01-matrix) |
+| [0785-is-graph-bipartite](https://github.com/AkshayDhankhar1/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AkshayDhankhar1/DSA/tree/master/1020-number-of-enclaves) |
 ## Prefix Sum
 |  |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshayDhankhar1/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/AkshayDhankhar1/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AkshayDhankhar1/DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -461,11 +463,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AkshayDhankhar1/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/AkshayDhankhar1/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AkshayDhankhar1/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AkshayDhankhar1/DSA/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/AkshayDhankhar1/DSA/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
