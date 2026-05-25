@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/AkshayDhankhar1/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/AkshayDhankhar1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/AkshayDhankhar1/DSA/tree/master/0940-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AkshayDhankhar1/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AkshayDhankhar1/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshayDhankhar1/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AkshayDhankhar1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AkshayDhankhar1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/AkshayDhankhar1/DSA/tree/master/0611-valid-triangle-number) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/AkshayDhankhar1/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AkshayDhankhar1/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AkshayDhankhar1/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/AkshayDhankhar1/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/AkshayDhankhar1/DSA/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/AkshayDhankhar1/DSA/tree/master/1020-number-of-enclaves) |
 ## Prefix Sum
 |  |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshayDhankhar1/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/AkshayDhankhar1/DSA/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/AkshayDhankhar1/DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshayDhankhar1/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Geometry
 |  |
 | ------- |
