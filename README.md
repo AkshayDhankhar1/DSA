@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/AkshayDhankhar1/DSA/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AkshayDhankhar1/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0967-minimum-falling-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/AkshayDhankhar1/DSA/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/AkshayDhankhar1/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1020-number-of-enclaves](https://github.com/AkshayDhankhar1/DSA/tree/master/1020-number-of-enclaves) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AkshayDhankhar1/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AkshayDhankhar1/DSA/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/AkshayDhankhar1/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AkshayDhankhar1/DSA/tree/master/1020-number-of-enclaves) |
 | [1559-cherry-pickup-ii](https://github.com/AkshayDhankhar1/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1975-maximum-matrix-sum](https://github.com/AkshayDhankhar1/DSA/tree/master/1975-maximum-matrix-sum) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AkshayDhankhar1/DSA/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/AkshayDhankhar1/DSA/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayDhankhar1/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/AkshayDhankhar1/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AkshayDhankhar1/DSA/tree/master/1020-number-of-enclaves) |
 ## Prefix Sum
 |  |
